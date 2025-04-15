@@ -29,17 +29,16 @@ Feather allows you to use an Apple Developer Account to sign and install applica
 ## Preview
 
 <div align="center">
-  <img src="screenshots/IMG_9738.png" width="250" alt="Home Screen">
-  <img src="screenshots/IMG_9859.PNG" width="250" alt="App Installation">
-  <img src="screenshots/IMG_9860.PNG" width="250" alt="Certificate Management">
-   <img src="screenshots/IMG_9861.PNG" width="250" alt="Preview">
+  <img src="screenshots/IMG_9738.png" width="150" alt="Home Screen">
+  <img src="screenshots/IMG_9859.PNG" width="150" alt="App Installation">
+  <img src="screenshots/IMG_9860.PNG" width="150" alt="Certificate Management">
+   <img src="screenshots/IMG_9861.PNG" width="150" alt="Preview">
 </div>
 
 ## Requirements
 
 - iOS 14.0 or later
-- Apple Developer Program membership
-- [Any additional requirements]
+- Install TrollStore, Sideload
 
 ## Installation
 
@@ -58,8 +57,4 @@ Feather allows you to use an Apple Developer Account to sign and install applica
 ## Credits
 
 - Original Feather project by [khcrysalis](https://github.com/khcrysalis/Feather)
-- [Any other credits you wish to include]
-
-## License
-
-[Your chosen license]
+- Sato
