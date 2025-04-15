@@ -42,7 +42,7 @@ Feather allows you to use an Apple Developer Account to sign and install applica
 
 ## Installation
 
-1. Download the IPA file from the [Releases](https://github.com/yourusername/Feather-Enhanced/releases) page
+1. Download the IPA file from the [Releases](https://github.com/TienSato/Feather-Mod-Features/tags) page
 2. Install using AltStore, Sideloadly, or your preferred sideloading method
 3. Open the app and follow on-screen instructions to set up your certificates
 
