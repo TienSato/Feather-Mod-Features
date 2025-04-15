@@ -2,8 +2,6 @@
 
 This application is a modified and improved version of the original [Feather project](https://github.com/khcrysalis/Feather), aimed at providing users with a better overall experience. Our team has addressed major functionality issues and enhanced usability for iOS users.
 
-![Feather App Screenshot](screenshots/feather-main.png)
-
 ## Improvements Over Original Version
 
 * Fixed critical bugs in the IPA installation process
