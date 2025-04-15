@@ -29,9 +29,10 @@ Feather allows you to use an Apple Developer Account to sign and install applica
 ## Preview
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" width="250" alt="Home Screen">
-  <img src="screenshots/screenshot2.png" width="250" alt="App Installation">
-  <img src="screenshots/screenshot3.png" width="250" alt="Certificate Management">
+  <img src="screenshots/IMG_9738.png" width="250" alt="Home Screen">
+  <img src="screenshots/IMG_9859.PNG" width="250" alt="App Installation">
+  <img src="screenshots/IMG_9860.PNG" width="250" alt="Certificate Management">
+   <img src="screenshots/IMG_9861.PNG" width="250" alt="Preview">
 </div>
 
 ## Requirements
